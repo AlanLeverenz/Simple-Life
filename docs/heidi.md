@@ -1,0 +1,1 @@
+Can someone please tell me how to get these images on my website? Consider me a beginner. It's really the only thing I can't seem to figure out and seriously effects the look of this website. Hope someone can help. Thanks
