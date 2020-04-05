@@ -9,6 +9,7 @@ body {
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.125rem;
+    font-weight: 300;
 }
 
 /* Typography */
@@ -24,6 +25,19 @@ h3 {
 h1 {
     font-size: 2rem;
     margin: 0;
+}
+
+a {
+    color: #1792d2;
+}
+
+a:hover,
+a:focus {
+    color: #143774;
+}
+
+strong {
+    font-weight: 700;
 }
 
 /* the logo subtitle */
@@ -47,7 +61,17 @@ h1 {
 .article-read-more {
     color: #1792d2;
     text-decoration: none;
+    font-weight: 700;
 }
+
+.article-read-more:hover,
+.article-read-more:focus {
+    color: #143774;
+    text-decoration: underline;
+}
+
+
+
 
 /* Layout */
 
